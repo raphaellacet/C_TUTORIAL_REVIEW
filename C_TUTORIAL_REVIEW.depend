@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610833623 source:c:\users\rapha\onedrive\Área de trabalho\c codes\giraffe\main.c
+	<stdio.h>
+	<stdlib.h>
+
